@@ -1,6 +1,6 @@
 Link to the web page : https://share.streamlit.io/neetu-24/image-super-resolution/main/app.py
-Contributors - 
-Nitya Santoshini
-Nandini Mawane
-Neetu
-Shalini CE
+<br>Project done by - 
+<br>Nitya Santoshini
+<br>Nandini Mawane
+<br>Neetu
+<br>Shalini CE
